@@ -20,8 +20,9 @@ pip install pywapi
 
 Note you may nead `sudo`
 
+* Put your Access Token and Username in the wittest.py file
 
-* Download, navigate to and Run the wittest.py file
+* Navigate to and Run the wittest.py file
 
  ```
 python wittest.py
